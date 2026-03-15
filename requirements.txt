@@ -1,5 +1,5 @@
-flask 
-joblib 
-pkl
+flask
+joblib
 numpy
-pickle
+scikit-learn
+gunicorn
