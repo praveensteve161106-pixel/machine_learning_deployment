@@ -1,5 +1,5 @@
 import pickle
-from flask import Flask, request, jsonify,x_train
+from flask import Flask, request, jsonify,x_train,y_train
 import numpy as np
 from sklearn.linear_model import LogisticRegression
 app = Flask(__name__)
